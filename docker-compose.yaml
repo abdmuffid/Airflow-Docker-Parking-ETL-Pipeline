@@ -94,7 +94,7 @@ services:
     image: dpage/pgadmin4
     restart: always
     environment:
-      PGADMIN_DEFAULT_EMAIL: rafijauhar03@gmail.com
+      PGADMIN_DEFAULT_EMAIL: muffid1264@gmail.com
       PGADMIN_DEFAULT_PASSWORD: airflow
       PGADMIN_LISTEN_PORT: 5051
     ports:
