@@ -1,8 +1,4 @@
 # **Parking ETL Pipeline (Airflow/Docker)**
-## **Gabriel Ilomuanya**
-##### Data Engineer | Software Engineer
-##### BS. Computer Science (Villanova University, May 2022)
-
 
 ##
 ## **Overview**
